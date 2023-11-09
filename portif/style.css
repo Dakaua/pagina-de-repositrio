@@ -1,0 +1,25 @@
+:root{
+    --cor_principal: rgb(252, 252, 252);
+    
+}
+body{
+    background: rgb(6, 0, 94);
+    color: rgb(255, 255, 255);
+}
+.imagem-perfil img{
+    width: 200px;
+    border-radius: 50%;
+}
+.container{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+ul li{
+    padding: 5px 0;
+}
+ion-icon{
+    color: white;
+}
